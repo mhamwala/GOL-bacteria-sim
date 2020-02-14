@@ -3,4 +3,8 @@ Simple Console Based Simulation of the Game of Life
 
 ## Running from console
 
-`java BacteriaSimulation.java`
+1. Compile 
+`javac BacteriaSimulation.java`
+
+2. Run
+`java BacteriaSimulation.class`
